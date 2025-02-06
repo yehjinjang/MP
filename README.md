@@ -32,7 +32,7 @@
 - **사용 도구**: Python, Jupyter Notebook, pandas, matplotlib, Folium, Ploty 
 
 ---
-# Flask 파일 서버 exercise 
+### Flask 파일 서버 exercise 
 Flask를 사용하여 간단한 파일 업로드 및 관리 서버를 구현하였습니다.
 
 ## 📌 주요 기능
