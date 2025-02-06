@@ -32,3 +32,13 @@
 - **사용 도구**: Python, Jupyter Notebook, pandas, matplotlib, Folium, Ploty 
 
 ---
+# Flask 파일 서버 exercise 
+Flask를 사용하여 간단한 파일 업로드 및 관리 서버를 구현하였습니다.
+
+## 📌 주요 기능
+- **파일 업로드**: txt, pdf, png, jpg, jpeg, gif 형식의 파일을 업로드 가능
+- **파일 목록 조회**: 업로드된 파일 리스트를 조회 가능
+- **파일 삭제**: 업로드된 파일을 삭제 가능
+- **플래시 메시지**: 업로드 및 삭제 성공/실패 메시지 표시
+
+---
